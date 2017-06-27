@@ -1,0 +1,7 @@
+﻿  NB.cpp
+c:\users\timoteo\documents\visual studio 2017\projects\naivebayes\naivebayes\nb.cpp(120): warning C4101: 'found': variável local não referenciada
+  Gerando Código...
+  Ignorando... (nenhuma alteração relevante detectada)
+  main.cpp
+  NaiveBayes.vcxproj -> C:\Users\timoteo\Documents\Visual Studio 2017\Projects\NaiveBayes\Debug\NaiveBayes.exe
+  NaiveBayes.vcxproj -> C:\Users\timoteo\Documents\Visual Studio 2017\Projects\NaiveBayes\Debug\NaiveBayes.pdb (Partial PDB)
